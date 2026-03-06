@@ -1,0 +1,12 @@
+{
+  "core": {
+    "color": {
+      "brand-01": {
+        "value": "#157B45"
+      },
+      "brand-02": {
+        "value": "#F59E0B"
+      }
+    }
+  }
+}

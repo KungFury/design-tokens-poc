@@ -1,0 +1,13 @@
+{
+  "name": "design-tokens-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "build:default-dark": "style-dictionary build --config sd.default.dark.js",
+    "build:default-light": "style-dictionary build --config sd.default.light.js",
+    "build:client-01-dark": "style-dictionary build --config sd.client-01.dark.js",
+    "build": "npm run build:default-dark && npm run build:default-light && npm run build:client-01-dark"
+  },
+  "dependencies": {
+    "style-dictionary": "^4.0.0"
+  }
+}

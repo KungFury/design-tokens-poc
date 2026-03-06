@@ -1,0 +1,2562 @@
+{
+  "core": {
+    "color": {
+      "brand-01": {
+        "$type": "color",
+        "$value": "#353899"
+      },
+      "brand-02": {
+        "$type": "color",
+        "$value": "#c91d5b"
+      },
+      "black": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "black-70": {
+        "$type": "color",
+        "$value": "#000000b2"
+      },
+      "black-50": {
+        "$type": "color",
+        "$value": "#00000080"
+      },
+      "black-30": {
+        "$type": "color",
+        "$value": "#0000004d"
+      },
+      "black-20": {
+        "$type": "color",
+        "$value": "#00000033"
+      },
+      "black-10": {
+        "$type": "color",
+        "$value": "#0000001a"
+      },
+      "blue": {
+        "50": {
+          "$type": "color",
+          "$value": "#f3f3f5"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#e7e7ea"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "#dcdce5"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#d0d1dc"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#b9baca"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#a2a3b9"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#8a8ba7"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#737496"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#5c5d84"
+        },
+        "750": {
+          "$type": "color",
+          "$value": "#50527c"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#454673"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "#393b6a"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#2d2f62"
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#191a3c"
+        },
+        "1000": {
+          "$type": "color",
+          "$value": "#0d0e32"
+        },
+        "50-00": {
+          "$type": "color",
+          "$value": "#f3f3f500"
+        }
+      },
+      "black-5": {
+        "$type": "color",
+        "$value": "#0000000d"
+      },
+      "black-0": {
+        "$type": "color",
+        "$value": "#00000000"
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#f3f3f3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#a1a0a1"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#89888a"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#717173"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#5a595b"
+        },
+        "750": {
+          "$type": "color",
+          "$value": "#4e4d50"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#424244"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "#363638"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#2b2a2c"
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#1f1e21"
+        },
+        "1000": {
+          "$type": "color",
+          "$value": "#131215"
+        },
+        "1100": {
+          "$type": "color",
+          "$value": "#000000"
+        },
+        "1100-00": {
+          "$type": "color",
+          "$value": "#00000000"
+        },
+        "1100-50": {
+          "$type": "color",
+          "$value": "#00000080"
+        },
+        "1100-70": {
+          "$type": "color",
+          "$value": "#000000b2"
+        },
+        "950-0": {
+          "$type": "color",
+          "$value": "#1f1e2100"
+        },
+        "900-0": {
+          "$type": "color",
+          "$value": "#2b2a2c00"
+        },
+        "00": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "00-70": {
+          "$type": "color",
+          "$value": "#ffffffb2"
+        },
+        "00-50": {
+          "$type": "color",
+          "$value": "#ffffff80"
+        },
+        "00-00": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "white": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "white-70": {
+        "$type": "color",
+        "$value": "#ffffffb2"
+      },
+      "white-50": {
+        "$type": "color",
+        "$value": "#ffffff80"
+      },
+      "white-30": {
+        "$type": "color",
+        "$value": "#ffffff4d"
+      },
+      "white-20": {
+        "$type": "color",
+        "$value": "#ffffff33"
+      },
+      "white-10": {
+        "$type": "color",
+        "$value": "#ffffff1a"
+      },
+      "white-5": {
+        "$type": "color",
+        "$value": "#ffffff0d"
+      },
+      "white-0": {
+        "$type": "color",
+        "$value": "#ffffff00"
+      },
+      "green": {
+        "200": {
+          "$type": "color",
+          "$value": "#134d1e"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#238c38"
+        }
+      },
+      "light-blue": {
+        "200": {
+          "$type": "color",
+          "$value": "#1b3b6c"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#397ee5"
+        }
+      },
+      "light-yellow": {
+        "200": {
+          "$type": "color",
+          "$value": "#78511e"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#ffac3f"
+        }
+      },
+      "red": {
+        "200": {
+          "$type": "color",
+          "$value": "#6e221c"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#e54839"
+        }
+      },
+      "additional-01": {
+        "$type": "color",
+        "$value": "#ff00cc"
+      },
+      "additional-02": {
+        "$type": "color",
+        "$value": "#333399"
+      },
+      "yellow": {
+        "$type": "color",
+        "$value": "#f9ee22"
+      },
+      "sports": {
+        "other": {
+          "$type": "color",
+          "$value": "#006868"
+        },
+        "other-00": {
+          "$type": "color",
+          "$value": "#00686800"
+        },
+        "soccer": {
+          "$type": "color",
+          "$value": "#38963c"
+        },
+        "soccer-00": {
+          "$type": "color",
+          "$value": "#38963c00"
+        },
+        "basketball": {
+          "$type": "color",
+          "$value": "#0071b8"
+        },
+        "basketball-00": {
+          "$type": "color",
+          "$value": "#0071b800"
+        },
+        "baseball": {
+          "$type": "color",
+          "$value": "#677273"
+        },
+        "baseball-00": {
+          "$type": "color",
+          "$value": "#67727300"
+        },
+        "ice-hockey": {
+          "$type": "color",
+          "$value": "#074c79"
+        },
+        "ice-hockey-00": {
+          "$type": "color",
+          "$value": "#074c7900"
+        },
+        "tennis": {
+          "$type": "color",
+          "$value": "#bf5821"
+        },
+        "tennis-00": {
+          "$type": "color",
+          "$value": "#bf582100"
+        },
+        "handball": {
+          "$type": "color",
+          "$value": "#16747a"
+        },
+        "handball-00": {
+          "$type": "color",
+          "$value": "#16747a00"
+        },
+        "golf": {
+          "$type": "color",
+          "$value": "#2e801a"
+        },
+        "golf-00": {
+          "$type": "color",
+          "$value": "#2e801a00"
+        },
+        "rugby": {
+          "$type": "color",
+          "$value": "#22a07f"
+        },
+        "rugby-00": {
+          "$type": "color",
+          "$value": "#22a07f00"
+        },
+        "aussie-rules": {
+          "$type": "color",
+          "$value": "#a93e3e"
+        },
+        "aussie-rules-00": {
+          "$type": "color",
+          "$value": "#a93e3e00"
+        },
+        "american-football": {
+          "$type": "color",
+          "$value": "#4e342e"
+        },
+        "american-football-00": {
+          "$type": "color",
+          "$value": "#4e342e00"
+        },
+        "snooker": {
+          "$type": "color",
+          "$value": "#9f314d"
+        },
+        "snooker-00": {
+          "$type": "color",
+          "$value": "#9f314d00"
+        },
+        "table-tennis": {
+          "$type": "color",
+          "$value": "#006a5c"
+        },
+        "table-tennis-00": {
+          "$type": "color",
+          "$value": "#006a5c00"
+        },
+        "cricket": {
+          "$type": "color",
+          "$value": "#0467a2"
+        },
+        "cricket-00": {
+          "$type": "color",
+          "$value": "#0467a200"
+        },
+        "darts": {
+          "$type": "color",
+          "$value": "#ce3636"
+        },
+        "darts-00": {
+          "$type": "color",
+          "$value": "#ce363600"
+        },
+        "volleyball": {
+          "$type": "color",
+          "$value": "#734a15"
+        },
+        "volleyball-00": {
+          "$type": "color",
+          "$value": "#734a1500"
+        },
+        "field-hockey": {
+          "$type": "color",
+          "$value": "#a9ccf4"
+        },
+        "field-hockey-00": {
+          "$type": "color",
+          "$value": "#a9ccf400"
+        },
+        "futsal": {
+          "$type": "color",
+          "$value": "#33691e"
+        },
+        "futsal-00": {
+          "$type": "color",
+          "$value": "#33691e00"
+        },
+        "badminton": {
+          "$type": "color",
+          "$value": "#006e6b"
+        },
+        "badminton-00": {
+          "$type": "color",
+          "$value": "#006e6b00"
+        },
+        "bowling": {
+          "$type": "color",
+          "$value": "#433734"
+        },
+        "bowling-00": {
+          "$type": "color",
+          "$value": "#43373400"
+        },
+        "beach-volleyball": {
+          "$type": "color",
+          "$value": "#ae6428"
+        },
+        "beach-volleyball-00": {
+          "$type": "color",
+          "$value": "#ae642800"
+        },
+        "squash": {
+          "$type": "color",
+          "$value": "#6b3d99"
+        },
+        "squash-00": {
+          "$type": "color",
+          "$value": "#6b3d9900"
+        },
+        "formula-1": {
+          "$type": "color",
+          "$value": "#ff1801"
+        },
+        "formula-1-00": {
+          "$type": "color",
+          "$value": "#ff180100"
+        },
+        "alppine-skiing": {
+          "$type": "color",
+          "$value": "#2f9150"
+        },
+        "alppine-skiing-00": {
+          "$type": "color",
+          "$value": "#2f915000"
+        },
+        "ski-jumping": {
+          "$type": "color",
+          "$value": "#007d98"
+        },
+        "ski-jumping-00": {
+          "$type": "color",
+          "$value": "#007d9800"
+        },
+        "counter-strike": {
+          "$type": "color",
+          "$value": "#0a436f"
+        },
+        "counter-strike-00": {
+          "$type": "color",
+          "$value": "#0a436f00"
+        },
+        "league-of-legends": {
+          "$type": "color",
+          "$value": "#8e7b78"
+        },
+        "league-of-legends-00": {
+          "$type": "color",
+          "$value": "#8e7b7800"
+        },
+        "dota-2": {
+          "$type": "color",
+          "$value": "#3bae97"
+        },
+        "dota-2-00": {
+          "$type": "color",
+          "$value": "#3bae9700"
+        },
+        "mma": {
+          "$type": "color",
+          "$value": "#842d42"
+        },
+        "mma-00": {
+          "$type": "color",
+          "$value": "#842d4200"
+        },
+        "esoccer": {
+          "$type": "color",
+          "$value": "#37953b"
+        },
+        "esoccer-00": {
+          "$type": "color",
+          "$value": "#37953b00"
+        },
+        "ebasketball": {
+          "$type": "color",
+          "$value": "#0085d8"
+        },
+        "ebasketball-00": {
+          "$type": "color",
+          "$value": "#0085d800"
+        },
+        "basketball-3x3": {
+          "$type": "color",
+          "$value": "#0093ee"
+        },
+        "basketball-3x3-00": {
+          "$type": "color",
+          "$value": "#0093ee00"
+        },
+        "moto-gp": {
+          "$type": "color",
+          "$value": "#3a3f44"
+        },
+        "moto-gp-00": {
+          "$type": "color",
+          "$value": "#3a3f4400"
+        },
+        "nascar": {
+          "$type": "color",
+          "$value": "#3d3a92"
+        },
+        "nascar-00": {
+          "$type": "color",
+          "$value": "#3d3a9200"
+        },
+        "elce-hockey": {
+          "$type": "color",
+          "$value": "#085384"
+        },
+        "elce-hockey-00": {
+          "$type": "color",
+          "$value": "#08538400"
+        },
+        "kabaddi": {
+          "$type": "color",
+          "$value": "#9f5f00"
+        },
+        "kabaddi-00": {
+          "$type": "color",
+          "$value": "#9f5f0000"
+        }
+      }
+    }
+  },
+  "mapped": {
+    "color": {
+      "text": {
+        "component": {
+          "time-indicator": {
+            "live": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "prematch": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            }
+          },
+          "outcome": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.text.disabled}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{core.color.white}"
+            },
+            "special-value": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "asian-accent": {
+              "$type": "color",
+              "$value": "{mapped.color.text.accent}"
+            },
+            "odds": {
+              "selected": {
+                "$type": "color",
+                "$value": "{core.color.white}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{mapped.color.text.disabled}"
+              },
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              },
+              "asian-accent": {
+                "$type": "color",
+                "$value": "{mapped.color.text.negative.default}"
+              }
+            }
+          },
+          "tab": {
+            "ghost": {
+              "selected": {
+                "$type": "color",
+                "$value": "{mapped.color.text.white}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              },
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{mapped.color.text.disabled}"
+              }
+            },
+            "outline": {
+              "selected": {
+                "$type": "color",
+                "$value": "{mapped.color.text.on-primary.primary}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              },
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{mapped.color.text.disabled}"
+              }
+            }
+          },
+          "betslip": {
+            "info-accent": {
+              "$type": "color",
+              "$value": "{mapped.color.text.accent}"
+            }
+          },
+          "az-sidebar": {
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.text.accent}"
+            }
+          },
+          "betslip-compact-m": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "{mapped.color.text.secondary}"
+            },
+            "accent": {
+              "$type": "color",
+              "$value": "{mapped.color.text.accent}"
+            },
+            "on-inverted": {
+              "$type": "color",
+              "$value": "{mapped.color.text.white}"
+            }
+          },
+          "button": {
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.text.on-primary.primary}"
+            },
+            "selected-ghost": {
+              "$type": "color",
+              "$value": "{mapped.color.text.accent}"
+            },
+            "payin": {
+              "$type": "color",
+              "$value": "{mapped.color.text.on-primary.primary}"
+            },
+            "payin-disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.text.on-primary.disabled}"
+            }
+          },
+          "betslip-highlight": {
+            "$type": "color",
+            "$value": "{mapped.color.text.white}"
+          },
+          "promo-header": {
+            "$type": "color",
+            "$value": "{mapped.color.text.accent}"
+          },
+          "prepared-betslip": {
+            "highlight": {
+              "$type": "color",
+              "$value": "{mapped.color.text.white}"
+            }
+          },
+          "betslip-compact-d": {
+            "primary": {
+              "$type": "color",
+              "$value": "{mapped.color.text.on-brand.primary}"
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "{mapped.color.text.on-brand.secondary}"
+            }
+          },
+          "tag": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "accent": {
+              "$type": "color",
+              "$value": "{mapped.color.text.on-primary.primary}"
+            },
+            "accent-inverted": {
+              "$type": "color",
+              "$value": "{mapped.color.text.accent}"
+            }
+          },
+          "horizontal-nav": {
+            "action": {
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              },
+              "active": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              }
+            }
+          },
+          "notification": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.text.positive.inverted}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.text.negative.inverted}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.text.info.inverted}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.text.warning.inverted}"
+            }
+          },
+          "status": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.text.positive.inverted}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.text.negative.inverted}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.text.info.inverted}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.text.warning.inverted}"
+            },
+            "subtle": {
+              "$type": "color",
+              "$value": "{mapped.color.text.secondary}"
+            }
+          },
+          "input": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "{mapped.color.text.secondary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.text.disabled}"
+            }
+          },
+          "result": {
+            "default": {
+              "$type": "color",
+              "$value": "{core.color.brand-02}"
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "tertiary": {
+              "$type": "color",
+              "$value": "{mapped.color.text.secondary}"
+            },
+            "on-default": {
+              "$type": "color",
+              "$value": "{core.color.white}"
+            },
+            "on-inverted": {
+              "$type": "color",
+              "$value": "{core.color.white}"
+            }
+          },
+          "global-search": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "placeholder": {
+              "$type": "color",
+              "$value": "{mapped.color.text.secondary}"
+            }
+          },
+          "select": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.text.primary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.text.disabled}"
+            }
+          }
+        },
+        "on-brand": {
+          "primary": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{core.color.white-70}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{core.color.white-50}"
+          },
+          "transparent": {
+            "$type": "color",
+            "$value": "{core.color.white-0}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.brand-01}"
+          },
+          "inverted-disabled": {
+            "$type": "color",
+            "$value": "{core.color.black-70}"
+          }
+        },
+        "on-primary": {
+          "primary": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{core.color.white-70}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{core.color.white-50}"
+          },
+          "transparent": {
+            "$type": "color",
+            "$value": "{core.color.white-0}"
+          }
+        },
+        "primary": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100}"
+        },
+        "primary-transparent": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100-00}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100-70}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100-50}"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "{core.color.brand-02}"
+        },
+        "inverted": {
+          "primary": {
+            "$type": "color",
+            "$value": "{core.color.neutral.00}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{core.color.neutral.00-70}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{core.color.neutral.00-50}"
+          }
+        },
+        "positive": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.green.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.black}"
+          },
+          "inverted-transparent": {
+            "$type": "color",
+            "$value": "{core.color.white-0}"
+          }
+        },
+        "negative": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.red.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.red.500}"
+          },
+          "inverted-transparent": {
+            "$type": "color",
+            "$value": "{core.color.white-0}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-yellow.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.black}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.black}"
+          }
+        },
+        "info": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-blue.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.light-blue.500}"
+          }
+        },
+        "white": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "white-70": {
+          "$type": "color",
+          "$value": "{core.color.white-70}"
+        },
+        "white-50": {
+          "$type": "color",
+          "$value": "{core.color.white-50}"
+        },
+        "black": {
+          "$type": "color",
+          "$value": "{core.color.black}"
+        },
+        "black-70": {
+          "$type": "color",
+          "$value": "{core.color.black-70}"
+        },
+        "black-50": {
+          "$type": "color",
+          "$value": "{core.color.black-50}"
+        },
+        "black-0": {
+          "$type": "color",
+          "$value": "{core.color.black-0}"
+        }
+      },
+      "surface": {
+        "component": {
+          "tab": {
+            "ghost": {
+              "selected": {
+                "$type": "color",
+                "$value": "{core.color.brand-02}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.tertiary}"
+              }
+            },
+            "outline": {
+              "selected": {
+                "$type": "color",
+                "$value": "{core.color.brand-02}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.tertiary}"
+              }
+            }
+          },
+          "outcome": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{core.color.brand-01}"
+            },
+            "special-value": {
+              "$type": "color",
+              "$value": "{core.color.blue.100}"
+            },
+            "event-view": {
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.secondary}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{core.color.brand-01}"
+              },
+              "special-value": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.page}"
+              }
+            }
+          },
+          "time-indicator": {
+            "live": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            },
+            "prematch": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            }
+          },
+          "button": {
+            "quick-link": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            },
+            "primary": {
+              "$type": "color",
+              "$value": "{core.color.brand-02}"
+            },
+            "brand": {
+              "$type": "color",
+              "$value": "{core.color.brand-01}"
+            },
+            "favourite": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.component.button.primary}"
+            },
+            "payin": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.accent}"
+            }
+          },
+          "input": {
+            "$type": "color",
+            "$value": "{core.color.blue.100}"
+          },
+          "event-card": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "event-market": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "main-navigation": {
+            "bottom": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "top": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            }
+          },
+          "sport-select-live": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "tab-group": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "alternative": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            }
+          },
+          "prepared-betslip": {
+            "card": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "highlight-01": {
+              "$type": "color",
+              "$value": "{core.color.additional-01}"
+            },
+            "highlight-02": {
+              "$type": "color",
+              "$value": "{core.color.additional-02}"
+            }
+          },
+          "promoted-catalogue": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "highlighed-event": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "tag": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            },
+            "accent": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.accent}"
+            },
+            "accent-inverted": {
+              "$type": "color",
+              "$value": "{core.color.white}"
+            }
+          },
+          "header": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.brand}"
+          },
+          "bottom-sheet": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "az-list": {
+            "bottom-sheet": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "time-card": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "list-sidebar": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "menu": {
+              "level-1": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.card-default}"
+              },
+              "level-2": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.secondary}"
+              },
+              "level-3": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.card-default}"
+              }
+            }
+          },
+          "select-menu": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "betslip-compact-m": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.component.main-navigation.bottom}"
+          },
+          "betslip-compact-m-inverted": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.accent}"
+          },
+          "global-search": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.component.input}"
+          },
+          "swipe-indicator": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.tertiary}"
+            },
+            "active": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.accent}"
+            }
+          },
+          "result": {
+            "default": {
+              "$type": "color",
+              "$value": "{core.color.brand-02}"
+            },
+            "inverted": {
+              "$type": "color",
+              "$value": "{core.color.black}"
+            }
+          },
+          "select": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.component.button.secondary}"
+            }
+          },
+          "bet-details": {
+            "modal": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.page}"
+            },
+            "actionable": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "read-only": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            }
+          },
+          "horizontal-nav": {
+            "action": {
+              "default": {
+                "$type": "color",
+                "$value": "{core.color.white}"
+              },
+              "active": {
+                "$type": "color",
+                "$value": "{mapped.color.surface.component.button.primary}"
+              }
+            }
+          },
+          "slide-control": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "notification": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.positive.default}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.negative.default}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.info.default}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.warning.default}"
+            }
+          },
+          "yellow-card": {
+            "$type": "color",
+            "$value": "{core.color.yellow}"
+          },
+          "red-card": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.negative.default}"
+          },
+          "modal": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.card-default}"
+          },
+          "betslip-compact-d": {
+            "$type": "color",
+            "$value": "{mapped.color.surface.accent}"
+          },
+          "outright-card": {
+            "level-1": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "level-2": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.card-default}"
+            },
+            "level-3": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.secondary}"
+            }
+          },
+          "status": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.positive.default}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.negative.default}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.info.default}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.warning.default}"
+            },
+            "subtle": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.tertiary}"
+            }
+          },
+          "odds-change": {
+            "up": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.positive.default}"
+            },
+            "down": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.negative.default}"
+            },
+            "up-selected": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.on-brand}"
+            },
+            "down-selected": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.on-brand}"
+            }
+          }
+        },
+        "card-default": {
+          "$type": "color",
+          "$value": "{core.color.neutral.00}"
+        },
+        "card-default-transparent": {
+          "$type": "color",
+          "$value": "{core.color.neutral.00-00}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.color.neutral.50}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.color.blue.200}"
+        },
+        "on-brand": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "on-primary": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "{core.color.brand-02}"
+        },
+        "positive": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.green.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "inverted": {
+          "$type": "color",
+          "$value": "{core.color.black}"
+        },
+        "page": {
+          "$type": "color",
+          "$value": "{core.color.blue.50}"
+        },
+        "negative": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.red.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "info": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-blue.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-yellow.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "sport": {
+          "default": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.other}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.other-00}"
+            }
+          },
+          "soccer": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.soccer}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.soccer-00}"
+            }
+          },
+          "basketball": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.basketball}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.basketball-00}"
+            }
+          },
+          "tennis": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.tennis}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.tennis-00}"
+            }
+          },
+          "handball": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.handball}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.handball-00}"
+            }
+          },
+          "baseball": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.baseball}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.baseball-00}"
+            }
+          },
+          "ice-hockey": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.ice-hockey}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.ice-hockey-00}"
+            }
+          },
+          "golf": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.golf}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.golf-00}"
+            }
+          },
+          "rugby": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.rugby}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.rugby-00}"
+            }
+          },
+          "aussie-rules": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.aussie-rules}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.aussie-rules-00}"
+            }
+          },
+          "american-football": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.american-football}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.american-football-00}"
+            }
+          },
+          "snooker": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.snooker}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.snooker-00}"
+            }
+          },
+          "table-tennis": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.table-tennis}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.table-tennis-00}"
+            }
+          },
+          "cricket": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.cricket}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.cricket-00}"
+            }
+          },
+          "darts": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.darts}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.darts-00}"
+            }
+          },
+          "volleyball": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.volleyball}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.volleyball-00}"
+            }
+          },
+          "field-hockey": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.field-hockey}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.field-hockey-00}"
+            }
+          },
+          "futsal": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.futsal}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.futsal-00}"
+            }
+          },
+          "badminton": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.badminton}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.badminton-00}"
+            }
+          },
+          "bowling": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.bowling}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.bowling-00}"
+            }
+          },
+          "beach-volley": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.beach-volleyball}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.beach-volleyball-00}"
+            }
+          },
+          "squash": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.squash}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.squash-00}"
+            }
+          },
+          "formula-1": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.formula-1}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.formula-1-00}"
+            }
+          },
+          "alpine-skiing": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.alppine-skiing}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.alppine-skiing-00}"
+            }
+          },
+          "ski-jumping": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.ski-jumping}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.ski-jumping-00}"
+            }
+          },
+          "counter-strike": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.counter-strike}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.counter-strike-00}"
+            }
+          },
+          "league-of-legends": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.league-of-legends}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.league-of-legends-00}"
+            }
+          },
+          "dota-2": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.dota-2}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.dota-2-00}"
+            }
+          },
+          "mma": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.mma}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.mma-00}"
+            }
+          },
+          "esoccer": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.esoccer}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.esoccer-00}"
+            }
+          },
+          "ebasketball": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.ebasketball}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.ebasketball-00}"
+            }
+          },
+          "kabaddi": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.kabaddi}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.kabaddi-00}"
+            }
+          },
+          "moto-gp": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.moto-gp}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.moto-gp-00}"
+            }
+          },
+          "nascar": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.nascar}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.nascar-00}"
+            }
+          },
+          "elce-hockey": {
+            "solid": {
+              "$type": "color",
+              "$value": "{core.color.sports.elce-hockey}"
+            },
+            "transparent": {
+              "$type": "color",
+              "$value": "{core.color.sports.elce-hockey-00}"
+            }
+          }
+        },
+        "page-transparent": {
+          "$type": "color",
+          "$value": "{core.color.blue.50-00}"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "{core.color.black-50}"
+        },
+        "overlay-subtle": {
+          "$type": "color",
+          "$value": "{core.color.black-10}"
+        },
+        "white": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{core.color.brand-01}"
+        }
+      },
+      "border": {
+        "accent": {
+          "$type": "color",
+          "$value": "{core.color.brand-02}"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "{core.color.black-5}"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{core.color.black-10}"
+        },
+        "card-default": {
+          "$type": "color",
+          "$value": "{core.color.black-10}"
+        },
+        "page": {
+          "$type": "color",
+          "$value": "{core.color.blue.50}"
+        },
+        "positive": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.green.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "negative": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.red.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "info": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-blue.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-yellow.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          }
+        },
+        "on-brand": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "white": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{core.color.brand-01}"
+        },
+        "component": {
+          "horizontal-nav": {
+            "action": {
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.border.default}"
+              },
+              "active": {
+                "$type": "color",
+                "$value": "{mapped.color.border.component.button.primary}"
+              }
+            }
+          },
+          "notification": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.border.positive.default}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.border.negative.default}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.border.info.default}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.border.warning.default}"
+            }
+          },
+          "status": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.border.positive.default}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.border.negative.default}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.border.info.default}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.border.warning.default}"
+            },
+            "subtle": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.tertiary}"
+            }
+          },
+          "highlighed-event": {
+            "$type": "color",
+            "$value": "{mapped.color.border.default}"
+          },
+          "input": {
+            "$type": "color",
+            "$value": "{mapped.color.border.default}"
+          },
+          "main-navigation": {
+            "bottom": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.page}"
+            },
+            "top": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            }
+          },
+          "tab-group": {
+            "default": {
+              "$type": "color",
+              "$value": "{core.color.white-0}"
+            },
+            "alternative": {
+              "$type": "color",
+              "$value": "{mapped.color.border.subtle}"
+            }
+          },
+          "prepared-betslip": {
+            "$type": "color",
+            "$value": "{mapped.color.border.default}"
+          },
+          "event-market": {
+            "$type": "color",
+            "$value": "{core.color.black-10}"
+          },
+          "promoted-catalogue": {
+            "$type": "color",
+            "$value": "{mapped.color.border.subtle}"
+          },
+          "select-menu": {
+            "$type": "color",
+            "$value": "{mapped.color.border.subtle}"
+          },
+          "modal": {
+            "$type": "color",
+            "$value": "{mapped.color.border.subtle}"
+          },
+          "az-time-card": {
+            "$type": "color",
+            "$value": "{mapped.color.border.default}"
+          },
+          "sport-live-select": {
+            "$type": "color",
+            "$value": "{mapped.color.border.subtle}"
+          },
+          "global-search": {
+            "$type": "color",
+            "$value": "{mapped.color.border.component.input}"
+          },
+          "divider": {
+            "$type": "color",
+            "$value": "{mapped.color.border.default}"
+          },
+          "result": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.border.accent}"
+            },
+            "inverted": {
+              "$type": "color",
+              "$value": "{core.color.black}"
+            }
+          },
+          "select": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.border.component.button.secondary}"
+            }
+          },
+          "button": {
+            "brand": {
+              "$type": "color",
+              "$value": "{core.color.brand-01}"
+            },
+            "primary": {
+              "$type": "color",
+              "$value": "{core.color.brand-02}"
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "outlined": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "quick-link": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "favourite": {
+              "$type": "color",
+              "$value": "{mapped.color.border.subtle}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.border.component.button.primary}"
+            },
+            "payin": {
+              "$type": "color",
+              "$value": "{mapped.color.border.accent}"
+            }
+          },
+          "tab": {
+            "outline": {
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.border.default}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{mapped.color.border.component.button.primary}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.border.component.button.secondary}"
+              }
+            },
+            "ghost": {
+              "selected": {
+                "$type": "color",
+                "$value": "{mapped.color.border.component.button.primary}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.border.component.button.secondary}"
+              }
+            },
+            "underline": {
+              "selected": {
+                "$type": "color",
+                "$value": "{mapped.color.border.component.button.primary}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{core.color.blue.150}"
+              }
+            }
+          },
+          "time-indicator": {
+            "live": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "prematch": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            }
+          },
+          "outcome": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.border.subtle}"
+            },
+            "selected": {
+              "$type": "color",
+              "$value": "{core.color.white-20}"
+            },
+            "special-value": {
+              "$type": "color",
+              "$value": "{mapped.color.border.subtle}"
+            },
+            "event-view": {
+              "default": {
+                "$type": "color",
+                "$value": "{core.color.blue.100}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{core.color.white-30}"
+              },
+              "special-value": {
+                "$type": "color",
+                "$value": "{mapped.color.border.page}"
+              }
+            }
+          },
+          "red-card": {
+            "event-details": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.component.event-card}"
+            },
+            "event-view": {
+              "$type": "color",
+              "$value": "{mapped.color.surface.page}"
+            }
+          },
+          "az-list": {
+            "level-1": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "level-2": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "level-3": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            }
+          },
+          "az-sidebar": {
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.border.accent}"
+            }
+          },
+          "tag": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "accent": {
+              "$type": "color",
+              "$value": "{mapped.color.border.accent}"
+            },
+            "accent-inverted": {
+              "$type": "color",
+              "$value": "{core.color.white}"
+            }
+          },
+          "slide-control": {
+            "$type": "color",
+            "$value": "{mapped.color.border.page}"
+          },
+          "outright-card": {
+            "level-1": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "level-2": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            },
+            "level-3": {
+              "$type": "color",
+              "$value": "{mapped.color.border.default}"
+            }
+          },
+          "betslip-compact-d": {
+            "$type": "color",
+            "$value": "{mapped.color.border.accent}"
+          }
+        }
+      },
+      "icon": {
+        "primary": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100-70}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{core.color.neutral.1100-50}"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "{core.color.brand-02}"
+        },
+        "warning": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-yellow.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.black}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.black}"
+          }
+        },
+        "positive": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.green.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.black}"
+          }
+        },
+        "negative": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.red.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.red.500}"
+          }
+        },
+        "info": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.light-blue.500}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "on-inverted": {
+            "$type": "color",
+            "$value": "{core.color.light-blue.500}"
+          }
+        },
+        "white": {
+          "$type": "color",
+          "$value": "{core.color.white}"
+        },
+        "white-70": {
+          "$type": "color",
+          "$value": "{core.color.white-70}"
+        },
+        "white-50": {
+          "$type": "color",
+          "$value": "{core.color.white-50}"
+        },
+        "black": {
+          "$type": "color",
+          "$value": "{core.color.black}"
+        },
+        "black-70": {
+          "$type": "color",
+          "$value": "{core.color.black-70}"
+        },
+        "component": {
+          "outcome": {
+            "disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.disabled}"
+            },
+            "odds": {
+              "disabled": {
+                "$type": "color",
+                "$value": "{mapped.color.icon.disabled}"
+              }
+            }
+          },
+          "betslip": {
+            "info-accent": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.accent}"
+            }
+          },
+          "az-sidebar": {
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.accent}"
+            }
+          },
+          "button": {
+            "selected": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.on-primary.primary}"
+            },
+            "selected-ghost": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.accent}"
+            },
+            "payin": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.on-primary.primary}"
+            },
+            "payin-disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.on-primary.disabled}"
+            }
+          },
+          "horizontal-nav": {
+            "action": {
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.icon.primary}"
+              },
+              "active": {
+                "$type": "color",
+                "$value": "{mapped.color.icon.on-primary.primary}"
+              }
+            }
+          },
+          "notification": {
+            "positive": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.positive.inverted}"
+            },
+            "negative": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.negative.inverted}"
+            },
+            "info": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.info.inverted}"
+            },
+            "warning": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.warning.inverted}"
+            }
+          },
+          "input": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.secondary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.disabled}"
+            }
+          },
+          "global-search": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.primary}"
+            },
+            "placeholder": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.secondary}"
+            }
+          },
+          "select": {
+            "default": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.secondary}"
+            },
+            "disabled": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.disabled}"
+            }
+          },
+          "quick_link": {
+            "$type": "color",
+            "$value": "{mapped.color.text.primary}"
+          },
+          "quick-link-on-sport": {
+            "$type": "color",
+            "$value": "{mapped.color.text.white}"
+          },
+          "betslip-compact-d": {
+            "$type": "color",
+            "$value": "{mapped.color.text.on-brand.primary}"
+          },
+          "promo-header": {
+            "$type": "color",
+            "$value": "{mapped.color.icon.accent}"
+          },
+          "component": {
+            "tab": {
+              "outline": {
+                "default": {
+                  "$type": "color",
+                  "$value": "{mapped.color.icon.primary}"
+                },
+                "disabled": {
+                  "$type": "color",
+                  "$value": "{mapped.color.icon.disabled}"
+                },
+                "selected": {
+                  "$type": "color",
+                  "$value": "{mapped.color.icon.on-primary.primary}"
+                },
+                "selected-subtle": {
+                  "$type": "color",
+                  "$value": "{mapped.color.icon.primary}"
+                }
+              }
+            }
+          },
+          "time-indicator": {
+            "live": {
+              "$type": "color",
+              "$value": "{mapped.color.icon.accent}"
+            }
+          },
+          "tab": {
+            "ghost": {
+              "default": {
+                "$type": "color",
+                "$value": "{mapped.color.icon.primary}"
+              },
+              "selected": {
+                "$type": "color",
+                "$value": "{mapped.color.icon.on-primary.primary}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{mapped.color.text.disabled}"
+              },
+              "selected-subtle": {
+                "$type": "color",
+                "$value": "{mapped.color.text.primary}"
+              }
+            }
+          }
+        },
+        "black-50": {
+          "$type": "color",
+          "$value": "{core.color.black-50}"
+        },
+        "on-brand": {
+          "default": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{core.color.white-50}"
+          },
+          "inverted": {
+            "$type": "color",
+            "$value": "{core.color.brand-01}"
+          },
+          "inverted-disabled": {
+            "$type": "color",
+            "$value": "{core.color.black-50}"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{core.color.white-70}"
+          }
+        },
+        "on-primary": {
+          "primary": {
+            "$type": "color",
+            "$value": "{core.color.white}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{core.color.white-70}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{core.color.white-50}"
+          }
+        },
+        "inverted": {
+          "primary": {
+            "$type": "color",
+            "$value": "{core.color.neutral.00}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{core.color.neutral.00-70}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{core.color.neutral.00-50}"
+          }
+        }
+      }
+    }
+  },
+  "alias": {
+    "color": {
+      "state": {
+        "hover": {
+          "$type": "color",
+          "$value": "{core.color.black-5}"
+        },
+        "pressed": {
+          "$type": "color",
+          "$value": "{core.color.black-10}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{core.color.black-10}"
+        }
+      }
+    }
+  }
+}
